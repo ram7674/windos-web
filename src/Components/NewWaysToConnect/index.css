@@ -1,0 +1,11 @@
+.NewWaysToConnect-container{
+    height: 100%;
+    width: 50%;
+    align-items: center;
+    background-color: aliceblue;
+}
+.NewWaysToConnect-card{
+    width: 80%;
+    height: 100%;
+    margin: 80px 0 0 50px;
+}

@@ -1,0 +1,22 @@
+.header-container{
+    height: 70px;
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-logo{
+    height: 40px;
+    margin-left: 30px;
+}
+.header-select{
+    height: 25px;
+    width: 70px;
+    padding: 5px;
+    border: none;
+    outline: 0;
+}
+.header-select{
+    margin-right: 30px;
+}

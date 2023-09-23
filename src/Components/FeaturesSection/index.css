@@ -1,0 +1,6 @@
+.FeaturesSection-container{
+    display: flex;
+    height: 44vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
